@@ -1,0 +1,56 @@
+# Competitive Java Topic Outline
+
+- Programming Fundamentals
+    - Variables and Data Types
+    - Operations and Expressions
+    - Type Casting
+    - Scope of Variables
+- Conditions
+    - if, else, else if
+    - switch case
+    - Ternary Operator
+- Loops
+    - for, while, do-while
+    - Nested Loops
+    - break and contiue
+- Arrays
+    - One-Dimensional Arrays
+    - Multidimensional Arrays
+    - Array Traversal
+- Methods
+- Input and Output
+    - Scanner
+    - BufferedReader
+    - StringTokenizer
+    - Fast Input Parsing
+    - StringBuilder
+- Strings
+    - String Methods
+    - Character Operations
+    - String Conversion
+- Data Structures
+    - Linked Lists
+    - Stacks
+    - Queues
+    - Graphs
+    - Trees
+- Java Collections
+    - ArrayList
+    - HashSet
+    - HashMap
+    - PriorityQueue
+    - TreeSet
+    - TreeMap
+    - Comparator and Comparable
+- Java Utilities
+    - Arrays
+    - Collections
+    - Math
+    - Integer and Long Utilities
+- Regular Expression
+- Algorithms
+    - Time and Space Complexity
+    - Big O notation
+    - Searching Algorithms
+    - Sorting Algorithms
+    - BFS and DFS
