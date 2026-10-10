@@ -48,6 +48,7 @@
     - Math
     - Integer and Long Utilities
 - Regular Expression
+- Error Handling
 - Algorithms
     - Time and Space Complexity
     - Big O notation
